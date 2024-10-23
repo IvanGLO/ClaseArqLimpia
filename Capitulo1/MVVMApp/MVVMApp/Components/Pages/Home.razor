@@ -1,0 +1,26 @@
+﻿@page "/"
+@using ViewModel;
+@inject ClockViewModel ViewModel;
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<h1>Reloj digital ViewModel</h1>
+<h2>@ViewModel.CurrentTime</h2>
+<input @bind-value="ViewModel.Name" type="text" />
+@if (!string.IsNullOrEmpty(ViewModel.Name))
+{
+    <h1>Hola @ViewModel.Name !!</h1>
+}
+@code{
+    protected override void OnInitialized()
+    {
+        //base.OnInitialized();
+        new System.Threading.Timer(t=>
+        {
+            InvokeAsync(()=>StateHasChanged());
+        },null,0,1000);
+    }
+
+}
+

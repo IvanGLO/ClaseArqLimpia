@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\business\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\business\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +19,20 @@
       "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\business\\services\\bookserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\business\\services\\bookserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\data\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\data\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|solutionrelative:ejerciciocapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEF557B5-DF06-449D-838E-BE6B246D49C7}|EjercicioCapas\\EjercicioCapas.csproj|c:\\users\\netec\\desktop\\proyectoscurso\\capitulo1\\ejerciciocapas\\ejerciciocapas\\data\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,32 +50,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "EjercicioCapas\\Business\\Entities\\Book.cs",
               "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Entities\\Book.cs",
               "RelativeToolTip": "EjercicioCapas\\Business\\Entities\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T19:59:47.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\DTOs\\BookDTO.cs",
-              "RelativeDocumentMoniker": "EjercicioCapas\\Data\\DTOs\\BookDTO.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\DTOs\\BookDTO.cs",
-              "RelativeToolTip": "EjercicioCapas\\Data\\DTOs\\BookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioCapas\\Program.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Program.cs",
+              "RelativeToolTip": "EjercicioCapas\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:59:04.448Z",
+              "WhenOpened": "2024-10-22T19:55:15.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "EjercicioCapas\\Data\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "EjercicioCapas\\Data\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:43:55.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\Repositories\\AutorRepository.cs",
+              "RelativeDocumentMoniker": "EjercicioCapas\\Data\\Repositories\\AutorRepository.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\Repositories\\AutorRepository.cs",
+              "RelativeToolTip": "EjercicioCapas\\Data\\Repositories\\AutorRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:43:45.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "EjercicioCapas\\Business\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Entities\\Autor.cs",
+              "RelativeToolTip": "EjercicioCapas\\Business\\Entities\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:38:37.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "EjercicioCapas\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "EjercicioCapas\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:35:12.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Services\\BookServiceImpl.cs",
+              "RelativeDocumentMoniker": "EjercicioCapas\\Business\\Services\\BookServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Services\\BookServiceImpl.cs",
+              "RelativeToolTip": "EjercicioCapas\\Business\\Services\\BookServiceImpl.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:01:37.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "EjercicioCapas\\Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "EjercicioCapas\\Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:13:54.607Z",
               "EditorCaption": ""
             },
             {
@@ -88,99 +162,19 @@
               "RelativeToolTip": "EjercicioCapas\\Business\\Services\\IBookService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:56:24.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:56:24.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Program.cs",
-              "RelativeDocumentMoniker": "EjercicioCapas\\Program.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Program.cs",
-              "RelativeToolTip": "EjercicioCapas\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "EjercicioCapas\\Data\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "EjercicioCapas\\Data\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:55:15.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "EjercicioCapas\\Data\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "EjercicioCapas\\Data\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwCgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:43:55.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AutorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\Repositories\\AutorRepository.cs",
-              "RelativeDocumentMoniker": "EjercicioCapas\\Data\\Repositories\\AutorRepository.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\Repositories\\AutorRepository.cs",
-              "RelativeToolTip": "EjercicioCapas\\Data\\Repositories\\AutorRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAArwBMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:43:45.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Entities\\Autor.cs",
-              "RelativeDocumentMoniker": "EjercicioCapas\\Business\\Entities\\Autor.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Entities\\Autor.cs",
-              "RelativeToolTip": "EjercicioCapas\\Business\\Entities\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:38:37.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "EjercicioCapas\\Data\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Data\\AppDBContext.cs",
-              "RelativeToolTip": "EjercicioCapas\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:35:12.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Services\\BookServiceImpl.cs",
-              "RelativeDocumentMoniker": "EjercicioCapas\\Business\\Services\\BookServiceImpl.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Business\\Services\\BookServiceImpl.cs",
-              "RelativeToolTip": "EjercicioCapas\\Business\\Services\\BookServiceImpl.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAywC8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:01:37.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Presentation\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "EjercicioCapas\\Presentation\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Netec\\Desktop\\ProyectosCurso\\Capitulo1\\EjercicioCapas\\EjercicioCapas\\Presentation\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "EjercicioCapas\\Presentation\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:13:54.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T19:59:04.448Z"
             }
           ]
         }
